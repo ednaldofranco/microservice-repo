@@ -1,1 +1,7 @@
-
+spring:
+ application:
+   name: 'free-bank-customer'
+ datasource:
+  url: 'jdbc:postgresql://localhost:5432/db_free_bank_customer'
+  username: postgres
+  password: 1234567
