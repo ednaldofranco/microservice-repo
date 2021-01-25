@@ -1,3 +1,6 @@
+spring:
+ application:
+   name: 'free-bank-customer'
 # Database configuration
 spring:
  datasource:
